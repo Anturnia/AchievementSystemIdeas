@@ -1,4 +1,4 @@
 # AdvancementSystemIdeas
-If you got any ideas for Advancements we can add write us here or on our discord!
+If you got any ideas for Advancements you can make a pull request here or write us on our discord!
 
 Discord: https://dc.anturnia.net
